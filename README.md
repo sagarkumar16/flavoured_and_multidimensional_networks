@@ -15,6 +15,7 @@ energy_distribution: any numpy distribution (np.array)
 
 NOTE: 3 dimensional simplices not yet available. 
 NOTE: Currently, all networks are built with m = 1, i.e. each new simplex attaches to only one existing face
+NOTE: The most updated work is in the Dimensional_Networks file.
 
 Resources:
 Bianconi, G., & Rahmede, C. (2016). Network geometry with flavor: from complexity to quantum geometry. Physical Review E, 93(3), 032315.
